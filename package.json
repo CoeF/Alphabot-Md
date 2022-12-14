@@ -1,5 +1,6 @@
 {
   "name": "Alphabot-Md",
+  "start": "http-server -a localhost -p 3500",
   "version": "1.6.4",
   "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
